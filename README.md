@@ -12,7 +12,7 @@ Visualisera viktig data för att förstå hur detta har påverkats.
 - Skapa visualiseringar (t.ex. stapeldiagram och cirkeldiagram)
 
   # Jag har organiserat mitt arbete med följande kolumner i Trello:
-- **Backlog** – Idéer och framtida uppgifter
-- **Todo** – Vad jag ska göra härnäst
+- Backlog – Idéer och framtida uppgifter
+- Todo – Vad jag ska göra härnäst
 - **Doing** – Vad jag jobbar med just nu
 - **Done** – Uppgifter som är klara
