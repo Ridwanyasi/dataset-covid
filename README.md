@@ -1,4 +1,7 @@
 # dataset-covid
+# länk:
+country_wise_latest.csv
+
  **Beskrivning:** Innehåller statistik om bekräftade fall, dödsfall, återhämtade och aktiva fall för olika länder.
 
 ##  Syfte och mål
