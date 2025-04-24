@@ -3,9 +3,9 @@
 
 ##  Syfte och mål
 
-*Syftet med projektet** är att analysera och visualisera hur olika länder har påverkats av pandemin.
+## Syftet med projektet är att analysera och visualisera hur olika länder har påverkats av pandemin.
 
-# Huvudmål:
+## Huvudmål:
 Visualisera viktig data för att förstå hur detta har påverkats.
 
 # Delmål:
